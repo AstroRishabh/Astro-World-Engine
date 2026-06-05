@@ -232,6 +232,4 @@ def navamsa_chart(data: dict):
     return {"d9_chart": d9}
 
 
-        
-if __name__ == "__main__":
-    app.run(host="0.0.0.0",port=5001, debug=True)
+    
